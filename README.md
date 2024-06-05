@@ -1,2 +1,3 @@
 # destroy
 new
+lock
