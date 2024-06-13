@@ -1,3 +1,4 @@
 # destroy
 new
 lock
+but
